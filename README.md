@@ -1,1 +1,2 @@
 # CloudComputing_DataSecurity
+The proposed model is liable to meet the required security needs of data center of cloud. The encryption of file slices takes minimum time and has maximum throughput for encryption and decryption from other symmetric algorithms.  The idea of splitting and merging adds on to meet the principle of data security.  The hybrid approach when deployed in cloud environment makes the remote server more secure and thus, helps the cloud providers to fetch more trust of their users.
